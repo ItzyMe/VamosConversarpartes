@@ -1,0 +1,51 @@
+rie uma nova pasta com o nome Vamos Conversar Web App, no qual você deve criar os arquivos a seguir:
+
+index.html
+Kwitter.css
+Kwitter.js
+Kwitter_room.html
+Kwitter_room.css
+kwitter_room.js
+*Se a pasta não possuir qualquer um desses arquivos, crie-os na pasta kwitter_project.
+
+
+
+
+
+
+Adicione os links para os arquivos kwitter.css e kwitter.js em index.html.
+
+
+Crie uma página login -index.html - com uma aparência UI diferente. Tenha certeza de que possua os elementos a seguir:
+Input box (caixa de inserção) para obter o nome do usuário para login.
+Essa input box deve possuir uma id para identificação.
+
+
+Utilize classes bootstrap para estilizar esse elemento e fornecer estilos adicionais ao kwitter.css.
+
+Adicione uma função onClick ao button (botão) login.
+Utilize essa função para adicionar o nome do usuário ao localStorage (armazenamento local), como mostra:
+
+Utilize classes bootstrap para estilizar esse elemento e fornecer estilos adicionais ao kwitter.css.
+
+Adicione o código a seguir ao arquivo kwitter.js para a página login:
+Obtenha o nome do usuário, a partir da input box, armazene-o no localStorage e o redirecione para a página kwitter_room.html.
+*Observação: Deixe kwitter_room.html e kwitter_room.js em branco, por agora, escreveremos seus códigos na próxima aula.
+
+Verifique o código e veja o resultado do design antes de enviar o projeto.
+*Consulte as imagens fornecidas acima para sua referência.
+
+Enviando o Projeto:
+Crie uma pasta Vamos_Conversar_Web_App e envie todos os arquivos relacionados, a esse projeto, ao GitHub.
+Você pode obter os passos para fazer isso clicando neste link.
+
+Copie o link hospedado, o qual você obterá após subir todos os arquivos para o GitHub e o envie para o painel de projetos do aluno com o número da aula correto.
+
+Dicas:
+Utilize bootstrap para tornar seu design mais atraente.
+Aqui estão alguns links para ajudá-lo a criar o framework bootstrap
+Grid system
+Bootstrap Templates
+
+Consulte a informação fornecida no link abaixo para ver como um valor pode ser armazenado em um localStorage.
+Store value in localStorage
